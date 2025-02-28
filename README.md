@@ -29,13 +29,11 @@ Developed as part of **The Complete Full-Stack Web Development Bootcamp by Angel
 
 ---
 
----
-
 ## 🎬 **How to Run Locally**
 1️⃣ **Clone the repository**:
 ```sh
 git clone https://github.com/ChinmaySumbe/TinDog_Project
-
+```
 ---
 
 ## 🚀 Deploying TinDog
@@ -44,5 +42,5 @@ git clone https://github.com/ChinmaySumbe/TinDog_Project
 
 ---
 
-##🌟 If you love this project, give it a ⭐ on GitHub! 🐶🔥##
+## 🌟 If you love this project, give it a ⭐ on GitHub! 🐶🔥##
 
